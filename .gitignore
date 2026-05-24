@@ -1,0 +1,22 @@
+# Next.js
+.next/
+out/
+build/
+
+# Node
+node_modules/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
+
+# Deploy script (contains auth logic — run locally only)
+deploy.sh

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://api.anthropic.com/v1/design/h/S_KwIab8KhYurkWpUXd95g?open_file=site%2Findex.html\")",
+      "Bash(curl -s -H \"Accept: application/json\" -H \"Accept-Encoding: identity\" \"https://api.anthropic.com/v1/design/h/S_KwIab8KhYurkWpUXd95g?open_file=site%2Findex.html\")"
+    ]
+  }
+}
